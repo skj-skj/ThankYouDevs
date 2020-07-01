@@ -7,6 +7,22 @@
   pointer-events: none;
 }
 
+.card-title{
+  background-color: black;
+  opacity: 0.8;
+  padding: 10px !important;
+  border-radius: 30px 30px 30px;
+}
+
+div#dev-card{
+  display: inline-block;
+}
+
+div#dev-card-main{
+  width: 256px;
+  height: 320px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -26,6 +42,15 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.card .card-image img {
+  height: 256px;
+  width: auto;
+}
+
+blockquote{
+  font-size: 50px;
 }
 
 @keyframes App-logo-spin {

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bitcoin",
+        "link":  "https://github.com/bitcoin/bitcoin",
+        "avatar_url": "./assets/bitcoin.png",
+        "user": "Bitcoin"
+    },
+    {
+        "name": "React",
+        "link":  "https://github.com/facebook/react",
+        "avatar_url": "./assets/react.png",
+        "user": "Facebook"
+    },
+    {
+        "name": "Flutter",
+        "link":  "https://github.com/flutter/flutter",
+        "avatar_url": "./assets/flutter.png",
+        "user": "Flutter"
+    },
+    {
+        "name": "Git",
+        "link":  "https://github.com/git/git",
+        "avatar_url": "./assets/git.png",
+        "user": "Git"
+    },
+    {
+        "name": "Godot",
+        "link":  "https://github.com/godotengine/godot",
+        "avatar_url": "./assets/godot.png",
+        "user": "Godot Engine"
+    },
+    {
+        "name": "Angular",
+        "link":  "https://github.com/angular/angular",
+        "avatar_url": "./assets/angular.png",
+        "user": "Angular"
+    },
+    {
+        "name": "CPython",
+        "link":  "https://github.com/python/cpython",
+        "avatar_url": "./assets/cpython.png",
+        "user": "Python"
+    },
+    {
+        "name": "VS Code",
+        "link":  "https://github.com/microsoft/vscode",
+        "avatar_url": "./assets/vscode.png",
+        "user": "Microsoft"
+    },
+    {
+        "name": "TensorFlow",
+        "link":  "https://github.com/tensorflow/tensorflow",
+        "avatar_url": "./assets/tensorflow.png",
+        "user": "TensorFlow"
+    },
+    {
+        "name": "Krita",
+        "link":  "https://github.com/KDE/krita",
+        "avatar_url": "./assets/krita.png",
+        "user": "KDE"
+    }
+]
