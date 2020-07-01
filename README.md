@@ -6,6 +6,8 @@ In this Project github api is used (api.github.com),<br />
 This Project shows top 30 Contributors of the any github repository,<br />
 just paste any repo link and hit enter, or you can play around with the "Popular Repo" section<br /><br /><br />
 
+![Thank You Devs Example gif](example/example.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
